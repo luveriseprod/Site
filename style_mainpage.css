@@ -1,9 +1,6 @@
-.header,
-.main,
-.footer {
-    display: none;
-}
-.body {
-    min-width: 10px;
-    background: url(./Media/123.jpg) no-repeat center center
+body {
+    width: auto;
+    height: auto;
+    background: fixed;
+    background-color:rgb(193, 250, 169)
 }
